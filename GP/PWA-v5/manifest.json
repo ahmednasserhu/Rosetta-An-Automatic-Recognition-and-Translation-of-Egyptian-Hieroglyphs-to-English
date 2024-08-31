@@ -1,0 +1,30 @@
+{
+  "name": "Translation App",
+  "short_name": "Translate",
+  "start_url": ".",
+  "background_color": "#f8f8f8",
+  "theme_color": "#4CAF50",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/download.png",
+      "sizes": "350x350",
+      "type": "image/png"
+    },
+    {
+      "src": "images/download-2.png",
+      "sizes": "626x626",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "880x780",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo-2.png",
+      "sizes": "626x626",
+      "type": "image/png"
+    }
+  ]
+}

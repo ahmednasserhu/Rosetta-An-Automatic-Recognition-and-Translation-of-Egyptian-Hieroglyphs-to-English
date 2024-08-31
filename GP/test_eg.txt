@@ -1,0 +1,3 @@
+r - i 3 - M 3 5 - n - n - D 2 - M 3 5 - V 3 0 - Swt - sy - N 3 3 - M 3 5 - M 3 5 - n - T - imy - D 2 - M 3 5 - wy - Ssp - N 3 3 - V 3 0 - V 3 0 - Q 1 - bw 
+ U 7 - m - sy - sy - sy - V 3 0 - i - V 3 0 - i - i - p - D 2 - M 3 5 - sy - n - T - F 3 4 - hAyt - Swt 
+ N 3 3 - M 3 5 - r - bw - ti - ti - ti - D 5 5 - f - smyt - M 3 5 - D 5 5 - n - p - V 3 0 - n - f - H - n - rdi - V 3 0 - Y 5 - Y 5 - n - N 3 3 - M 3 5 
